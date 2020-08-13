@@ -1,5 +1,5 @@
 ---
-id: dnd-5e-srd-class-barbarian
+id: dnd-5e-srd-class-bard
 title: Barbarian
 is_entry_point: false
 ---
