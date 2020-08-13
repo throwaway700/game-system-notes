@@ -8,7 +8,7 @@ is_entry_point: false
 [D&D 5e SRD](dnd-5e-srd-toc) > [Classes](dnd-5e-srd-classes)
 </breadcrumb>
 
-## [Barbarian](dnd-5e-srd-class-barbarian)
+## [Barbarian](dnd-5e-srd-class-barbarian-broken)
 
 ## [Bard](dnd-5e-srd-class-bard)
 
